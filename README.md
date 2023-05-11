@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Jaisy 👋
 
 - 📚 Atualmente cursando graduação de Análise e Desenvolvimento de Sistemas na Faculdade de Informática e Administração Paulista - FIAP
-- 👩‍💻 Aprendendo Python, Java, IA, Chatbot, banco de dados, HTML e CSS 
+- 👩‍💻 Aprendendo Python, Java, JavaScript, IA, Chatbot, banco de dados, HTML e CSS 
 <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=jaisycibele&show_icons=true&theme=dark"
