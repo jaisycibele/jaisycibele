@@ -4,7 +4,7 @@
 - 👩‍💻 Aprendendo Python, Java, JavaScript, IA, Chatbot, banco de dados, HTML e CSS 
 <div align="center">
   <a href="https://github.com/jaisycibele">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=jaisycibelea&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=jaisycibele&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaisycibele&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
