@@ -11,6 +11,7 @@
   srcset="https://github-readme-stats.vercel.app/api?username=jaisycibele&show_icons=true"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="https://github-readme-stats.vercel.app/api?username=jaisycibele&show_icons=true" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoJBarbosa&layout=compact&langs_count=7&theme=dark"/>
+
 </picture>
  
