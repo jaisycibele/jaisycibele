@@ -4,8 +4,7 @@
 - 👩‍💻 Aprendendo Python, Java, JavaScript, React, Angular, Machine Learning, Chatbot, banco de dados, HTML e CSS 
 <div align="center">
   <a href="https://github.com/jaisycibele">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=jaisycibele&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-</div>
+   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaisycibele&layout=compact&hide_border=true&title_color=76c7fc&text_color=c9d1d9&bg_color=0d1117" />
 <div style="display: inline_block"><br>
 
 ##
